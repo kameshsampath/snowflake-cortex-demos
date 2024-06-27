@@ -1,0 +1,9 @@
+[submodule "cortex-llm-demo"]
+	path = cortex-llm-demo
+	url = git@github.com:kameshsampath/cortex-llm-demo.git
+[submodule "llm-demo"]
+	path = llm-demo
+	url = git@github.com:kameshsampath/cortex-llm-demo.git
+[submodule "rag-demo"]
+	path = rag-demo
+	url = git@github.com:kameshsampath/cortex-rag-demo.git
