@@ -1,0 +1,7 @@
+snowflake-cli-labs==2.5.0
+snowflake-snowpark-python==1.16.0
+snowflake-ml-python==1.5.0
+ipython==8.20.0
+ipykernel==6.28.0
+streamlit
+watchdog
